@@ -1,0 +1,5 @@
+  mDisabled1=0x0
+  mDisabled2=0x0
+  mDisableRecords.size=0
+  mCurrentUserId=0
+  mIcons=
