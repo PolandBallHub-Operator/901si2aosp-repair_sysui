@@ -1,0 +1,517 @@
+--------- beginning of main
+10-27 01:53:13.490  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:13.492   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:14.496  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:14.497   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:15.500  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:15.502   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:16.504  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:16.506   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:16.750  2346  2346 D StatusBar: animateCollapse(): mExpandedVisible=false flags=0
+10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() isFullyCollapsed() = true
+10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() mTracking = false
+10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() mClosing = false
+10-27 01:53:16.750  2346  2346 D yangjuan: StatusBar canPanelBeCollapsed()==true
+10-27 01:53:16.752  2346  2346 V PanelView: com.android.systemui:id/notification_panel: setExpandedHeight(0.0)
+10-27 01:53:16.752  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:16.752  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:16.752  2346  2346 V PanelBar: panelExpansionChanged: start state=0
+10-27 01:53:16.752  2346  2346 V PanelBar: panelExpansionChanged: end state=0 [ fullyClosed ]
+10-27 01:53:16.753  2346  2346 V PanelBar: collapsePanel: animate=true waiting=false
+10-27 01:53:17.510  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:17.519   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:18.523  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:18.525   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:19.114  2346  2346 V PanelBar: panelExpansionChanged: start state=0
+10-27 01:53:19.118  2346  2346 V PanelBar: go state: 0 -> 1
+10-27 01:53:19.118  2346  2346 V PanelBar: onPanelPeeked
+10-27 01:53:19.126  2346  2346 D StatusBar: disable<E i a s b h r c s q >
+10-27 01:53:19.127  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.128  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.135  2346  2346 I 901SI-UI-Restore: Top-edge drag fallback requested AOSP notification-panel expansion; dy=508.97736
+10-27 01:53:19.174  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.175  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.175  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.175  2346  3197 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:612>: EGL_BAD_ATTRIBUTE
+10-27 01:53:19.175  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.176  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.191  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.191  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.205  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.206  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.208  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.209  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.209  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.228  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.228  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.228  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.229  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.229  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.239  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.239  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.1
+10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.256  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.256  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.257  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.257  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.1
+10-27 01:53:19.258  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.272  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.272  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.2
+10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.290  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.290  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.290  2346  2346 D StatusBar: disable<E i a s b h r c s q >
+10-27 01:53:19.291  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.292  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.3
+10-27 01:53:19.292  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.307  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.307  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.307  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.308  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.5
+10-27 01:53:19.308  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.323  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.323  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.6
+10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.340  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.340  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.7
+10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.357  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.357  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.357  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.358  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.7
+10-27 01:53:19.358  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.373  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.374  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.374  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.375  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.8
+10-27 01:53:19.376  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.390  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.390  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.391  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.391  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.393  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.407  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.407  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.408  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.408  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.409  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.423  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.424  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.424  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.425  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.425  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.440  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.441  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.441  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.441  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.442  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.457  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.457  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.457  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.458  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.458  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.474  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.474  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.474  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.475  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.475  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.490  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.490  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.507  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.507  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.507  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.508  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.508  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.524  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.524  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.524  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.525  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.525  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.527  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:19.529   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:19.540  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.540  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.541  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.541  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.541  2346  2346 V PanelBar: go state: 1 -> 2
+10-27 01:53:19.542  2346  2346 V PanelBar: onPanelFullyOpened
+10-27 01:53:19.542  2346  2346 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 01:53:19.543  2346  2346 V PanelBar: onExpandingFinished
+10-27 01:53:19.543  2346  2346 V PanelBar: panelExpansionChanged: start state=2
+10-27 01:53:19.544  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.544  2346  2346 V PanelBar: go state: 2 -> 2
+10-27 01:53:19.544  2346  2346 V PanelBar: onPanelFullyOpened
+10-27 01:53:19.544  2346  2346 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 01:53:20.533  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:20.536   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:21.541  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:21.544   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:22.546  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:22.548   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:23.553  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:23.555   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:24.560  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:24.562   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:25.565  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:25.567   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:26.571  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:26.573   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+
+
+--------- beginning of main
+10-27 01:53:13.490  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:13.492   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:14.496  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:14.497   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:15.500  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:15.502   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:16.504  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:16.506   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:16.750  2346  2346 D StatusBar: animateCollapse(): mExpandedVisible=false flags=0
+10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() isFullyCollapsed() = true
+10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() mTracking = false
+10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() mClosing = false
+10-27 01:53:16.750  2346  2346 D yangjuan: StatusBar canPanelBeCollapsed()==true
+10-27 01:53:16.752  2346  2346 V PanelView: com.android.systemui:id/notification_panel: setExpandedHeight(0.0)
+10-27 01:53:16.752  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:16.752  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:16.752  2346  2346 V PanelBar: panelExpansionChanged: start state=0
+10-27 01:53:16.752  2346  2346 V PanelBar: panelExpansionChanged: end state=0 [ fullyClosed ]
+10-27 01:53:16.753  2346  2346 V PanelBar: collapsePanel: animate=true waiting=false
+10-27 01:53:17.510  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:17.519   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:18.523  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:18.525   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:19.114  2346  2346 V PanelBar: panelExpansionChanged: start state=0
+10-27 01:53:19.118  2346  2346 V PanelBar: go state: 0 -> 1
+10-27 01:53:19.118  2346  2346 V PanelBar: onPanelPeeked
+10-27 01:53:19.126  2346  2346 D StatusBar: disable<E i a s b h r c s q >
+10-27 01:53:19.127  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.128  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.135  2346  2346 I 901SI-UI-Restore: Top-edge drag fallback requested AOSP notification-panel expansion; dy=508.97736
+10-27 01:53:19.174  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.175  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.175  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.175  2346  3197 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:612>: EGL_BAD_ATTRIBUTE
+10-27 01:53:19.175  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.176  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.191  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.191  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.205  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.206  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.208  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.209  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.209  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.228  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.228  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.228  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.229  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.0
+10-27 01:53:19.229  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.239  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.239  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.1
+10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.256  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.256  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.257  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.257  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.1
+10-27 01:53:19.258  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.272  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.272  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.2
+10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.290  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.290  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.290  2346  2346 D StatusBar: disable<E i a s b h r c s q >
+10-27 01:53:19.291  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.292  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.3
+10-27 01:53:19.292  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.307  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.307  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.307  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.308  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.5
+10-27 01:53:19.308  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.323  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.323  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.6
+10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.340  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.340  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.7
+10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.357  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.357  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.357  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.358  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.7
+10-27 01:53:19.358  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.373  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.374  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.374  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.375  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.8
+10-27 01:53:19.376  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.390  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.390  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.391  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.391  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.393  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.407  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.407  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.408  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.408  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.409  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.423  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.424  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.424  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.425  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.425  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.440  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.441  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.441  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.441  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=0.9
+10-27 01:53:19.442  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.457  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.457  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.457  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.458  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.458  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.474  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.474  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.474  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.475  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.475  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.490  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.490  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.507  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.507  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.507  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.508  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.508  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.524  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.524  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.524  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.525  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.525  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+10-27 01:53:19.527  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:19.529   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:19.540  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+10-27 01:53:19.540  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+10-27 01:53:19.541  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+10-27 01:53:19.541  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.541  2346  2346 V PanelBar: go state: 1 -> 2
+10-27 01:53:19.542  2346  2346 V PanelBar: onPanelFullyOpened
+10-27 01:53:19.542  2346  2346 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 01:53:19.543  2346  2346 V PanelBar: onExpandingFinished
+10-27 01:53:19.543  2346  2346 V PanelBar: panelExpansionChanged: start state=2
+10-27 01:53:19.544  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notification_panel: f=1.0
+10-27 01:53:19.544  2346  2346 V PanelBar: go state: 2 -> 2
+10-27 01:53:19.544  2346  2346 V PanelBar: onPanelFullyOpened
+10-27 01:53:19.544  2346  2346 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 01:53:20.533  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:20.536   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:21.541  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:21.544   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:22.546  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:22.548   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:23.553  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:23.555   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:24.560  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:24.562   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:25.565  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:25.567   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+10-27 01:53:26.571  3689  4003 E SecUISvc: Error initializing local socket: -1
+10-27 01:53:26.573   283   283 W /system/bin/hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.tui_comm@1.0::ITuiComm/default in either framework or device manifest.
+\kids\log2\loglog> Select-String -Path .\pull-next.log -Pattern "901SI-UI-Restore|PanelBar|PanelView|NotificationPanelView|animateExpand|PULL_TEST"
+
+pull-next.log:11:10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() isFullyCollapsed(
+) = true
+pull-next.log:12:10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() mTracking = false
+pull-next.log:13:10-27 01:53:16.750  2346  2346 D yangjuan: PanelView canPanelBeCollapsed() mClosing = false
+pull-next.log:15:10-27 01:53:16.752  2346  2346 V PanelView: com.android.systemui:id/notification_panel: setE
+xpandedHeight(0.0)
+pull-next.log:16:10-27 01:53:16.752  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:17:10-27 01:53:16.752  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:18:10-27 01:53:16.752  2346  2346 V PanelBar: panelExpansionChanged: start state=0
+pull-next.log:19:10-27 01:53:16.752  2346  2346 V PanelBar: panelExpansionChanged: end state=0 [ fullyClosed
+]
+pull-next.log:20:10-27 01:53:16.753  2346  2346 V PanelBar: collapsePanel: animate=true waiting=false
+pull-next.log:25:10-27 01:53:19.114  2346  2346 V PanelBar: panelExpansionChanged: start state=0
+pull-next.log:26:10-27 01:53:19.118  2346  2346 V PanelBar: go state: 0 -> 1
+pull-next.log:27:10-27 01:53:19.118  2346  2346 V PanelBar: onPanelPeeked
+pull-next.log:29:10-27 01:53:19.127  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.0
+pull-next.log:30:10-27 01:53:19.128  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:31:10-27 01:53:19.135  2346  2346 I 901SI-UI-Restore: Top-edge drag fallback requested AOSP not
+ification-panel expansion; dy=508.97736
+pull-next.log:32:10-27 01:53:19.174  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:33:10-27 01:53:19.175  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:34:10-27 01:53:19.175  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:36:10-27 01:53:19.175  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.0
+pull-next.log:37:10-27 01:53:19.176  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:38:10-27 01:53:19.191  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:39:10-27 01:53:19.191  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:40:10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:41:10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.0
+pull-next.log:42:10-27 01:53:19.192  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:43:10-27 01:53:19.205  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:44:10-27 01:53:19.206  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:45:10-27 01:53:19.208  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:46:10-27 01:53:19.209  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.0
+pull-next.log:47:10-27 01:53:19.209  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:48:10-27 01:53:19.228  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:49:10-27 01:53:19.228  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:50:10-27 01:53:19.228  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:51:10-27 01:53:19.229  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.0
+pull-next.log:52:10-27 01:53:19.229  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:53:10-27 01:53:19.239  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:54:10-27 01:53:19.239  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:55:10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:56:10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.1
+pull-next.log:57:10-27 01:53:19.240  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:58:10-27 01:53:19.256  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:59:10-27 01:53:19.256  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:60:10-27 01:53:19.257  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:61:10-27 01:53:19.257  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.1
+pull-next.log:62:10-27 01:53:19.258  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:63:10-27 01:53:19.272  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:64:10-27 01:53:19.272  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:65:10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:66:10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.2
+pull-next.log:67:10-27 01:53:19.273  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:68:10-27 01:53:19.290  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:69:10-27 01:53:19.290  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:71:10-27 01:53:19.291  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:72:10-27 01:53:19.292  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.3
+pull-next.log:73:10-27 01:53:19.292  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:74:10-27 01:53:19.307  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:75:10-27 01:53:19.307  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:76:10-27 01:53:19.307  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:77:10-27 01:53:19.308  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.5
+pull-next.log:78:10-27 01:53:19.308  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:79:10-27 01:53:19.323  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:80:10-27 01:53:19.323  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:81:10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:82:10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.6
+pull-next.log:83:10-27 01:53:19.324  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:84:10-27 01:53:19.340  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:85:10-27 01:53:19.340  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:86:10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:87:10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.7
+pull-next.log:88:10-27 01:53:19.341  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:89:10-27 01:53:19.357  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:90:10-27 01:53:19.357  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:91:10-27 01:53:19.357  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:92:10-27 01:53:19.358  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.7
+pull-next.log:93:10-27 01:53:19.358  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:94:10-27 01:53:19.373  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:95:10-27 01:53:19.374  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:96:10-27 01:53:19.374  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:97:10-27 01:53:19.375  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:i
+d/notification_panel: f=0.8
+pull-next.log:98:10-27 01:53:19.376  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:99:10-27 01:53:19.390  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:100:10-27 01:53:19.390  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:101:10-27 01:53:19.391  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:102:10-27 01:53:19.391  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=0.9
+pull-next.log:103:10-27 01:53:19.393  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:104:10-27 01:53:19.407  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:105:10-27 01:53:19.407  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:106:10-27 01:53:19.408  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:107:10-27 01:53:19.408  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=0.9
+pull-next.log:108:10-27 01:53:19.409  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:109:10-27 01:53:19.423  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:110:10-27 01:53:19.424  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:111:10-27 01:53:19.424  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:112:10-27 01:53:19.425  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=0.9
+pull-next.log:113:10-27 01:53:19.425  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:114:10-27 01:53:19.440  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:115:10-27 01:53:19.441  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:116:10-27 01:53:19.441  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:117:10-27 01:53:19.441  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=0.9
+pull-next.log:118:10-27 01:53:19.442  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:119:10-27 01:53:19.457  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:120:10-27 01:53:19.457  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:121:10-27 01:53:19.457  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:122:10-27 01:53:19.458  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:123:10-27 01:53:19.458  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:124:10-27 01:53:19.474  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:125:10-27 01:53:19.474  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:126:10-27 01:53:19.474  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:127:10-27 01:53:19.475  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:128:10-27 01:53:19.475  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:129:10-27 01:53:19.490  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:130:10-27 01:53:19.490  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:131:10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:132:10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:133:10-27 01:53:19.491  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:134:10-27 01:53:19.507  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:135:10-27 01:53:19.507  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:136:10-27 01:53:19.507  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:137:10-27 01:53:19.508  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:138:10-27 01:53:19.508  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:139:10-27 01:53:19.524  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:140:10-27 01:53:19.524  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:141:10-27 01:53:19.524  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:142:10-27 01:53:19.525  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:143:10-27 01:53:19.525  2346  2346 V PanelBar: panelExpansionChanged: end state=1 [ ]
+pull-next.log:146:10-27 01:53:19.540  2346  2346 D yangjuan: PanelView getMaxPanelHeight() = 186
+pull-next.log:147:10-27 01:53:19.540  2346  2346 D yangjuan: PanelView getOverExpansionAmount() = 0.0
+pull-next.log:148:10-27 01:53:19.541  2346  2346 V PanelBar: panelExpansionChanged: start state=1
+pull-next.log:149:10-27 01:53:19.541  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:150:10-27 01:53:19.541  2346  2346 V PanelBar: go state: 1 -> 2
+pull-next.log:151:10-27 01:53:19.542  2346  2346 V PanelBar: onPanelFullyOpened
+pull-next.log:152:10-27 01:53:19.542  2346  2346 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened
+ ]
+pull-next.log:153:10-27 01:53:19.543  2346  2346 V PanelBar: onExpandingFinished
+pull-next.log:154:10-27 01:53:19.543  2346  2346 V PanelBar: panelExpansionChanged: start state=2
+pull-next.log:155:10-27 01:53:19.544  2346  2346 V PanelBar: panelExpansionChanged:  -> com.android.systemui:
+id/notification_panel: f=1.0
+pull-next.log:156:10-27 01:53:19.544  2346  2346 V PanelBar: go state: 2 -> 2
+pull-next.log:157:10-27 01:53:19.544  2346  2346 V PanelBar: onPanelFullyOpened
+pull-next.log:158:10-27 01:53:19.544  2346  2346 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened
+ ]
