@@ -1,0 +1,309 @@
+10-27 02:23:43.349  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=327.54507 y=1.2490242 handled=true
+10-27 02:23:43.366  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=303.524 y=29.437077 handled=true
+10-27 02:23:43.382  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=285.73312 y=77.57703 handled=true
+10-27 02:23:43.399  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=276.09753 y=130.72081 handled=true
+10-27 02:23:43.418  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=266.71152 y=195.41394 handled=true
+10-27 02:23:43.434  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=249.44765 y=272.65305 handled=true
+10-27 02:23:43.450  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=239.18378 y=317.41754 handled=true
+10-27 02:23:43.459  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=239.00139 y=324.74628 handled=true
+10-27 02:23:43.466  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=239.00139 y=324.74628 handled=true
+10-27 02:23:43.612  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=306.24133 y=8.118657 handled=true
+10-27 02:23:43.618  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=306.24133 y=8.118657 handled=true
+10-27 02:23:43.632  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=306.24133 y=8.118657 handled=true
+10-27 02:23:43.651  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=298.77914 y=14.340931 handled=true
+10-27 02:23:43.667  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=276.85367 y=44.73754 handled=true
+10-27 02:23:43.683  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=262.92215 y=103.946205 handled=true
+10-27 02:23:43.699  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=249.14066 y=200.93565 handled=true
+10-27 02:23:43.717  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=221.51337 y=328.35504 handled=true
+10-27 02:23:43.734  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=208.61961 y=402.3499 handled=true
+10-27 02:23:43.752  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=211.70596 y=418.4231 handled=true
+10-27 02:23:43.755  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=211.70596 y=418.4231 handled=true
+10-27 02:23:43.886  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=296.25522 y=18.735363 handled=true
+10-27 02:23:43.889  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=296.25522 y=18.735363 handled=true
+10-27 02:24:15.706  2176  2176 V PanelBar: go state: 0 -> 1
+10-27 02:24:15.707  2176  2176 V PanelBar: onPanelPeeked
+10-27 02:24:15.777  2176  2176 V PanelBar: go state: 1 -> 2
+10-27 02:24:15.777  2176  2176 V PanelBar: onPanelFullyOpened
+10-27 02:24:41.923  2176  2176 V PanelBar: go state: 2 -> 2
+10-27 02:24:41.923  2176  2176 V PanelBar: onPanelFullyOpened
+10-27 02:24:41.929  2176  2176 V PanelBar: go state: 2 -> 2
+10-27 02:24:41.930  2176  2176 V PanelBar: onPanelFullyOpened
+10-27 02:24:42.162  2176  2176 V PanelBar: go state: 2 -> 0
+10-27 02:24:44.378  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=390.7906 y=11.865729 handled=true
+10-27 02:24:44.385  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=390.7906 y=11.865729 handled=true
+10-27 02:24:44.434  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=390.7906 y=11.865729 handled=true
+10-27 02:24:44.450  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=378.045 y=13.755718 handled=true
+10-27 02:24:44.470  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=365.85968 y=19.015303 handled=true
+10-27 02:24:44.483  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=361.08932 y=21.15301 handled=true
+10-27 02:24:44.499  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=356.80112 y=21.857924 handled=true
+10-27 02:24:44.516  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=350.70282 y=22.549616 handled=true
+10-27 02:24:44.532  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=344.20767 y=24.351507 handled=true
+10-27 02:24:44.548  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=337.95667 y=26.796133 handled=true
+10-27 02:24:44.565  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=333.0634 y=28.66741 handled=true
+10-27 02:24:44.581  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=328.05957 y=30.487501 handled=true
+10-27 02:24:44.598  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=323.16467 y=31.762627 handled=true
+10-27 02:24:44.614  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=318.24878 y=34.950085 handled=true
+10-27 02:24:44.632  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=313.44104 y=42.07396 handled=true
+10-27 02:24:44.647  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=307.25903 y=53.440155 handled=true
+10-27 02:24:44.663  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=302.8436 y=69.95307 handled=true
+10-27 02:24:44.679  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=300.88043 y=83.35548 handled=true
+10-27 02:24:44.696  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=299.8733 y=99.86877 handled=true
+10-27 02:24:44.712  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=298.91818 y=124.37963 handled=true
+10-27 02:24:44.719  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=298.91818 y=131.77205 handled=true
+10-27 02:24:44.723  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=298.91818 y=131.77205 handled=true
+10-27 02:24:44.850  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=380.1387 y=6.8696327 handled=true
+10-27 02:24:44.859  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=380.1387 y=6.8696327 handled=true
+10-27 02:24:44.876  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=380.1387 y=6.8696327 handled=true
+10-27 02:24:44.892  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=327.8839 y=16.29993 handled=true
+10-27 02:24:44.908  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=277.9339 y=63.725376 handled=true
+10-27 02:24:44.925  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=253.994 y=135.94563 handled=true
+10-27 02:24:44.941  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=243.484 y=212.6471 handled=true
+10-27 02:24:44.958  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=239.71765 y=274.76318 handled=true
+10-27 02:24:44.974  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=241.69029 y=320.4842 handled=true
+10-27 02:24:44.990  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=250.4867 y=333.7802 handled=true
+10-27 02:24:45.007  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=265.90762 y=321.1049 handled=true
+10-27 02:24:45.023  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=281.25217 y=276.32144 handled=true
+10-27 02:24:45.039  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.5535 y=200.17871 handled=true
+10-27 02:24:45.045  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.27185 y=184.85558 handled=true
+10-27 02:24:45.049  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=284.27185 y=184.85558 handled=true
+10-27 02:24:45.128  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=314.23026 y=20.608898 handled=true
+10-27 02:24:45.138  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=314.23026 y=20.608898 handled=true
+10-27 02:24:45.154  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=314.23026 y=20.608898 handled=true
+10-27 02:24:45.171  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=288.13687 y=42.38108 handled=true
+10-27 02:24:45.187  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=275.43976 y=96.1494 handled=true
+10-27 02:24:45.203  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=270.3214 y=145.69733 handled=true
+10-27 02:24:45.220  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=267.08615 y=191.09663 handled=true
+10-27 02:24:45.236  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=264.96533 y=228.31535 handled=true
+10-27 02:24:45.252  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=263.63385 y=260.24313 handled=true
+10-27 02:24:45.269  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=262.9681 y=277.98422 handled=true
+10-27 02:24:45.286  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=265.63107 y=276.65884 handled=true
+10-27 02:24:45.290  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=265.63107 y=276.65884 handled=true
+10-27 02:24:45.410  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=320.88766 y=26.85402 handled=true
+10-27 02:24:45.417  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=320.88766 y=26.85402 handled=true
+10-27 02:24:45.449  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=320.88766 y=26.85402 handled=true
+10-27 02:24:45.465  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=303.58862 y=49.73676 handled=true
+10-27 02:24:45.481  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=291.09424 y=91.53927 handled=true
+10-27 02:24:45.498  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=286.81168 y=131.79372 handled=true
+10-27 02:24:45.514  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.5389 y=164.23236 handled=true
+10-27 02:24:45.531  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=282.89886 y=189.73314 handled=true
+10-27 02:24:45.548  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=281.6089 y=201.78119 handled=true
+10-27 02:24:45.563  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=281.6089 y=206.07248 handled=true
+10-27 02:24:45.578  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=282.94037 y=192.97423 handled=true
+10-27 02:24:45.582  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=282.94037 y=192.97423 handled=true
+10-27 02:24:45.707  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=378.14148 y=11.865729 handled=true
+10-27 02:24:45.711  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=378.14148 y=11.865729 handled=true
+10-27 02:24:45.727  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=378.14148 y=11.865729 handled=true
+10-27 02:24:45.743  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=363.9829 y=12.81641 handled=true
+10-27 02:24:45.759  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=321.0836 y=19.222483 handled=true
+10-27 02:24:45.776  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=297.4106 y=42.210934 handled=true
+10-27 02:24:45.792  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=286.6067 y=92.38329 handled=true
+10-27 02:24:45.808  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=283.6061 y=132.01146 handled=true
+10-27 02:24:45.825  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=283.78265 y=158.90532 handled=true
+10-27 02:24:45.842  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.8187 y=175.33174 handled=true
+10-27 02:24:45.858  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=287.3096 y=175.73462 handled=true
+10-27 02:24:45.861  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=288.2663 y=174.23888 handled=true
+10-27 02:24:45.865  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=288.2663 y=174.23888 handled=true
+10-27 02:24:45.983  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=318.2247 y=19.359875 handled=true
+10-27 02:24:45.988  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=318.2247 y=19.359875 handled=true
+10-27 02:24:46.005  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=318.2247 y=19.359875 handled=true
+10-27 02:24:46.021  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=289.22647 y=26.453705 handled=true
+10-27 02:24:46.038  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=276.6108 y=57.411205 handled=true
+10-27 02:24:46.054  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=273.7319 y=95.218956 handled=true
+10-27 02:24:46.071  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=276.04263 y=127.44445 handled=true
+10-27 02:24:46.087  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=283.46075 y=148.24388 handled=true
+10-27 02:24:46.098  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=288.93204 y=153.00546 handled=true
+10-27 02:24:46.102  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=288.93204 y=153.00546 handled=true
+10-27 02:24:46.236  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=322.8849 y=20.608898 handled=true
+10-27 02:24:46.241  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=322.8849 y=20.608898 handled=true
+10-27 02:24:46.267  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=322.8849 y=20.608898 handled=true
+10-27 02:24:46.283  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=291.07672 y=54.055706 handled=true
+10-27 02:24:46.300  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=286.06635 y=92.211655 handled=true
+10-27 02:24:46.316  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.9376 y=122.738434 handled=true
+10-27 02:24:46.332  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=286.05432 y=139.50795 handled=true
+10-27 02:24:46.348  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=286.26907 y=142.38875 handled=true
+10-27 02:24:46.365  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=290.92926 y=124.2779 handled=true
+10-27 02:24:46.369  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=290.92926 y=124.2779 handled=true
+10-27 02:24:46.499  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=367.4896 y=14.363778 handled=true
+10-27 02:24:46.512  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=367.4896 y=14.363778 handled=true
+10-27 02:24:46.528  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=353.6277 y=14.943703 handled=true
+10-27 02:24:46.546  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=326.0929 y=19.570656 handled=true
+10-27 02:24:46.561  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=307.89664 y=27.653488 handled=true
+10-27 02:24:46.578  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=295.1166 y=49.47076 handled=true
+10-27 02:24:46.594  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=288.51584 y=74.68811 handled=true
+10-27 02:24:46.610  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=285.6256 y=89.86709 handled=true
+10-27 02:24:46.627  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.38525 y=95.96209 handled=true
+10-27 02:24:46.643  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=284.27185 y=96.79937 handled=true
+10-27 02:24:46.656  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=288.93204 y=86.18266 handled=true
+10-27 02:24:46.660  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=288.93204 y=86.18266 handled=true
+10-27 02:24:46.752  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=278.28018 y=29.352068 handled=true
+10-27 02:24:46.758  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=278.28018 y=29.352068 handled=true
+10-27 02:24:46.792  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=278.28018 y=29.352068 handled=true
+10-27 02:24:46.809  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=252.50096 y=51.02856 handled=true
+10-27 02:24:46.823  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=248.98752 y=72.81677 handled=true
+10-27 02:24:46.840  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=248.98752 y=88.68833 handled=true
+10-27 02:24:46.856  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=250.00691 y=97.46286 handled=true
+10-27 02:24:46.871  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=251.40118 y=96.0181 handled=true
+10-27 02:24:46.878  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=254.31346 y=90.55425 handled=true
+10-27 02:24:46.882  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=254.31346 y=90.55425 handled=true
+10-27 02:24:46.978  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=310.90152 y=28.727556 handled=true
+10-27 02:24:46.987  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=310.90152 y=28.727556 handled=true
+10-27 02:24:47.018  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=310.90152 y=28.727556 handled=true
+10-27 02:24:47.037  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=296.57993 y=29.602894 handled=true
+10-27 02:24:47.051  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=275.37872 y=38.31896 handled=true
+10-27 02:24:47.067  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=271.21207 y=65.159775 handled=true
+10-27 02:24:47.085  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=270.29126 y=86.62447 handled=true
+10-27 02:24:47.101  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=271.7 y=95.97133 handled=true
+10-27 02:24:47.113  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=274.95148 y=97.42388 handled=true
+10-27 02:24:47.116  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=1 x=274.95148 y=97.42388 handled=true
+10-27 02:24:47.228  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=0 x=329.5423 y=21.857924 handled=true
+10-27 02:24:47.232  2176  2176 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEvent acti
+on=2 x=329.5423 y=21.857924 handled=true
