@@ -1,0 +1,567 @@
+﻿
+10-27 21:35:30.434  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=52.59362 y=3
+89.071 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.448  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=52.59362 y=
+389.071 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.451  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=52.59362 y=3
+89.071 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.465  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=52.59362 y=
+389.071 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.468  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=52.59362 y=3
+89.071 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.482  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=52.59362 y=
+389.071 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.485  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=52.59362 y=3
+89.071 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.500  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=52.59362 y=
+389.071 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.503  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=52.59362 y=3
+89.071 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.508  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=52.59362 y=
+389.071 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.510  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=52.59362 y=3
+89.071 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:30.610  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=56.588074 y
+=397.18967 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.613  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=56.588074 y=
+397.18967 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.632  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=56.588074 y
+=397.18967 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.635  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=56.588074 y=
+397.18967 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.649  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=56.588074 y
+=397.18967 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.652  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=56.588074 y=
+397.18967 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.668  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=56.588074 y
+=397.18967 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.671  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=56.588074 y=
+397.18967 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.685  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=56.588074 y
+=397.18967 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.688  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=56.588074 y=
+397.18967 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.692  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=56.588074 y
+=397.18967 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.696  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=56.588074 y=
+397.18967 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.792  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.795  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.815  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.818  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.834  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.836  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.849  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.852  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.873  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.875  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.883  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.886  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.891  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.893  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.897  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=49.930653 y
+=392.19357 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.900  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=49.930653 y=
+392.19357 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEn
+abled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qs
+Customizing=false
+10-27 21:35:30.982  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:30.985  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.016  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.019  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.032  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.034  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.049  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.052  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.067  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.069  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.078  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.082  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.086  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=49.26491 y=
+390.94455 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.089  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=49.26491 y=3
+90.94455 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.186  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=46.601944 y
+=388.4465 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.190  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=46.601944 y=
+388.4465 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.200  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=46.601944 y
+=388.4465 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.202  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=46.601944 y=
+388.4465 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.222  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=46.601944 y
+=388.4465 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.225  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=46.601944 y=
+388.4465 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.235  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=46.601944 y
+=388.4465 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.238  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=46.601944 y=
+388.4465 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.250  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=46.601944 y
+=388.4465 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:31.253  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=46.601944 y=
+388.4465 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.050  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.58985 y=
+431.15863 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.053  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.58985 y=4
+31.15863 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.058  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=49.930653 y
+=434.0359 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.061  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=49.930653 y=
+434.0359 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.071  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=49.930653 y
+=434.0359 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.073  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=49.930653 y=
+434.0359 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.193  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=61.91401 y=
+427.79077 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.195  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=61.91401 y=4
+27.79077 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.201  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=61.91401 y=
+427.79077 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.203  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=61.91401 y=4
+27.79077 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.217  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=61.91401 y=
+427.79077 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.219  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=61.91401 y=4
+27.79077 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.234  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=61.91401 y=
+427.79077 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.240  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=61.91401 y=4
+27.79077 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.251  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=61.91401 y=
+429.93463 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.254  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=61.91401 y=4
+29.93463 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.266  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=61.91401 y=
+439.377 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:32.270  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=61.91401 y=4
+39.377 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:32.274  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=61.91401 y=
+439.03198 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.277  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=61.91401 y=4
+39.03198 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.415  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.418  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.424  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.426  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.436  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.440  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.455  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.458  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.476  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.479  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.500  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.503  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.512  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.516  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.521  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=62.57975 y=
+452.77124 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.524  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=62.57975 y=4
+52.77124 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.612  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=59.25104 y=
+414.0515 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.615  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=59.25104 y=4
+14.0515 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.636  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=59.25104 y=
+414.0515 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.655  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=59.25104 y=4
+14.0515 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.666  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=59.25104 y=
+414.0515 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.669  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=59.25104 y=4
+14.0515 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.683  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=59.25104 y=
+414.0515 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.686  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=59.25104 y=4
+14.0515 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.700  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=58.39651 y=
+413.2499 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.704  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=58.39651 y=4
+13.2499 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.708  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=57.919556 y
+=412.8025 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.710  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=57.919556 y=
+412.8025 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.714  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=57.919556 y
+=412.8025 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.717  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=57.919556 y=
+412.8025 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.814  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=67.239944 y
+=408.4309 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.818  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=67.239944 y=
+408.4309 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.823  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=67.239944 y
+=408.4309 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.825  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=67.239944 y=
+408.4309 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.832  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=67.239944 y
+=408.4309 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.834  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=67.239944 y=
+408.4309 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.851  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=67.239944 y
+=408.4309 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.854  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=67.239944 y=
+408.4309 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.866  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=67.239944 y
+=408.4309 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.868  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=67.239944 y=
+408.4309 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.894  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=67.239944 y
+=408.4309 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.900  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=67.239944 y=
+408.4309 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEna
+bled=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsC
+ustomizing=false
+10-27 21:35:32.915  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=66.56208 y=
+407.1705 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.918  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=66.56208 y=4
+07.1705 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:32.922  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=1 x=66.5742 y=4
+07.1819 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:32.924  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=1 x=66.5742 y=40
+7.1819 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnabl
+ed=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCus
+tomizing=false
+10-27 21:35:33.005  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=0 x=65.24272 y=
+393.4426 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.013  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=0 x=65.24272 y=3
+93.4426 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.022  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=65.24272 y=
+393.4426 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.026  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=65.24272 y=3
+93.4426 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.051  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=65.24272 y=
+393.4426 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.053  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=65.24272 y=3
+93.4426 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.065  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=65.24272 y=
+393.4426 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.068  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=65.24272 y=3
+93.4426 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.082  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=65.24272 y=
+393.4426 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.084  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=65.24272 y=3
+93.4426 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.099  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent BEFORE action=2 x=65.24272 y=
+393.4426 result=null mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+10-27 21:35:33.101  2162  2162 I 901SI-PanelDiag: onInterceptTouchEvent AFTER action=2 x=65.24272 y=3
+93.4426 result=false mBlockTouches=false mTracking=false mExpandedHeight=652.0 mNotificationsDragEnab
+led=true mTouchDisabled=false mGestureWaitForTouchSlop=false mQsExpanded=true mIsExpanding=false qsCu
+stomizing=false
+
+
