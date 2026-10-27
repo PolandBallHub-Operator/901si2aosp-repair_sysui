@@ -1,0 +1,453 @@
+﻿
+10-27 19:06:50.520  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.520  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.520  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.520  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.521  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.523  2575  2575 I 901SI-PanelDrag: MOVE dy=214.05553 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.523  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=248.48773 y=214.05553 handled=true
+10-27 19:06:50.536  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.537  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.537  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.537  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.537  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.539  2575  2575 I 901SI-PanelDrag: MOVE dy=230.45221 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.540  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=247.65604 y=230.45221 handled=true
+10-27 19:06:50.551  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.551  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.552  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.552  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.552  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.554  2575  2575 I 901SI-PanelDrag: MOVE dy=251.97858 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.554  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=246.9903 y=251.97858 handled=true
+10-27 19:06:50.569  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.569  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.569  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.569  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.569  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.572  2575  2575 I 901SI-PanelDrag: MOVE dy=263.24405 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.572  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=246.9903 y=263.24405 handled=true
+10-27 19:06:50.587  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.587  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.587  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.587  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.587  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.590  2575  2575 I 901SI-PanelDrag: MOVE dy=276.9059 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.590  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=246.32455 y=276.9059 handled=true
+10-27 19:06:50.601  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.601  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.601  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.601  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.601  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.604  2575  2575 I 901SI-PanelDrag: MOVE dy=293.93222 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.604  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=246.32455 y=293.93222 handled=true
+10-27 19:06:50.619  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.619  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.619  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.619  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.619  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.622  2575  2575 I 901SI-PanelDrag: MOVE dy=306.6481 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.622  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=246.32455 y=306.6481 handled=true
+10-27 19:06:50.634  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.634  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.634  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.634  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.635  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.637  2575  2575 I 901SI-PanelDrag: MOVE dy=317.29715 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.638  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=246.52162 y=317.29715 handled=true
+10-27 19:06:50.653  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.653  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.653  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.653  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.653  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.656  2575  2575 I 901SI-PanelDrag: MOVE dy=331.5929 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.656  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=248.1985 y=331.5929 handled=true
+10-27 19:06:50.669  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.670  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.670  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.670  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.670  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.672  2575  2575 I 901SI-PanelDrag: MOVE dy=349.71677 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.672  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=250.53973 y=349.71677 handled=true
+10-27 19:06:50.684  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.684  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.685  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.685  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.685  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.687  2575  2575 I 901SI-PanelDrag: MOVE dy=362.4752 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.688  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=252.71791 y=362.4752 handled=true
+10-27 19:06:50.701  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.701  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.701  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.701  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.701  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.704  2575  2575 I 901SI-PanelDrag: MOVE dy=376.14188 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.704  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=255.36154 y=376.14188 handled=true
+10-27 19:06:50.719  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.719  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.720  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.720  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.720  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.722  2575  2575 I 901SI-PanelDrag: MOVE dy=390.6226 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.723  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=258.14044 y=390.6226 handled=true
+10-27 19:06:50.734  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.734  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.735  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.735  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.735  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.737  2575  2575 I 901SI-PanelDrag: MOVE dy=406.7352 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.738  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=262.23303 y=406.7352 handled=true
+10-27 19:06:50.753  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.753  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.753  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.753  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.753  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.756  2575  2575 I 901SI-PanelDrag: MOVE dy=423.26978 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.756  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=266.71506 y=423.26978 handled=true
+10-27 19:06:50.768  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.768  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.768  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.768  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.768  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.771  2575  2575 I 901SI-PanelDrag: MOVE dy=439.93698 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.771  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=270.80154 y=439.93698 handled=true
+10-27 19:06:50.785  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.786  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.786  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.786  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.787  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.790  2575  2575 I 901SI-PanelDrag: MOVE dy=452.9707 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.790  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=274.822 y=452.9707 handled=true
+10-27 19:06:50.801  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.801  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.802  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.802  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.802  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.805  2575  2575 I 901SI-PanelDrag: MOVE dy=465.7457 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.805  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=277.50723 y=465.7457 handled=true
+10-27 19:06:50.819  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.820  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.820  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.820  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.820  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.823  2575  2575 I 901SI-PanelDrag: MOVE dy=477.98474 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.823  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=280.13828 y=477.98474 handled=true
+10-27 19:06:50.834  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.835  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.835  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.835  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.835  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.838  2575  2575 I 901SI-PanelDrag: MOVE dy=487.55313 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.838  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=282.2238 y=487.55313 handled=true
+10-27 19:06:50.851  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.851  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.852  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.852  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.852  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.854  2575  2575 I 901SI-PanelDrag: MOVE dy=501.80017 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.854  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=284.90482 y=501.80017 handled=true
+10-27 19:06:50.868  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.868  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.869  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.869  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.869  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.871  2575  2575 I 901SI-PanelDrag: MOVE dy=515.00116 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.872  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=286.56262 y=515.00116 handled=true
+10-27 19:06:50.886  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.887  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.887  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.887  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.887  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.890  2575  2575 I 901SI-PanelDrag: MOVE dy=523.1809 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.890  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=287.60056 y=523.1809 handled=true
+10-27 19:06:50.901  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.902  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.902  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.902  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.902  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.904  2575  2575 I 901SI-PanelDrag: MOVE dy=530.68225 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.905  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=289.22412 y=530.68225 handled=true
+10-27 19:06:50.918  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.919  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.919  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.919  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.919  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.922  2575  2575 I 901SI-PanelDrag: MOVE dy=535.117 height=186.0 max=186.0 mBlockTouche
+s=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGes
+tureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.923  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=289.59778 y=535.117 handled=true
+10-27 19:06:50.937  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.938  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.938  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.938  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.938  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.941  2575  2575 I 901SI-PanelDrag: MOVE dy=542.5535 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.941  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=290.5702 y=542.5535 handled=true
+10-27 19:06:50.952  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.952  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.953  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.953  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.953  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.956  2575  2575 I 901SI-PanelDrag: MOVE dy=550.69055 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.957  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=292.23322 y=550.69055 handled=true
+10-27 19:06:50.971  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.971  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.971  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.971  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.972  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.975  2575  2575 I 901SI-PanelDrag: MOVE dy=559.54407 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.975  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=293.92178 y=559.54407 handled=true
+10-27 19:06:50.985  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:50.986  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:50.986  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:50.986  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:50.986  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:50.989  2575  2575 I 901SI-PanelDrag: MOVE dy=566.9134 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:50.990  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=295.5512 y=566.9134 handled=true
+10-27 19:06:51.004  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.004  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.004  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.004  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.004  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.007  2575  2575 I 901SI-PanelDrag: MOVE dy=574.3035 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.008  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=297.49875 y=574.3035 handled=true
+10-27 19:06:51.019  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.020  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.020  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.020  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.020  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.023  2575  2575 I 901SI-PanelDrag: MOVE dy=585.57135 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.024  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=300.2202 y=585.57135 handled=true
+10-27 19:06:51.037  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.038  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.038  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.038  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.038  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.041  2575  2575 I 901SI-PanelDrag: MOVE dy=597.5453 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.042  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=303.53827 y=597.5453 handled=true
+10-27 19:06:51.053  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.053  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.054  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.054  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.054  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.057  2575  2575 I 901SI-PanelDrag: MOVE dy=607.67896 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.057  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=306.91727 y=607.67896 handled=true
+10-27 19:06:51.070  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.070  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.070  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.070  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.070  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.073  2575  2575 I 901SI-PanelDrag: MOVE dy=618.42017 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.074  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=310.8531 y=618.42017 handled=true
+10-27 19:06:51.085  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.086  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.086  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.086  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.086  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.089  2575  2575 I 901SI-PanelDrag: MOVE dy=631.1853 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.090  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=314.81747 y=631.1853 handled=true
+10-27 19:06:51.103  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.103  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.103  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.104  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.104  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.107  2575  2575 I 901SI-PanelDrag: MOVE dy=643.11615 height=186.0 max=186.0 mBlockTouc
+hes=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mG
+estureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.107  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=318.26758 y=643.11615 handled=true
+10-27 19:06:51.119  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.119  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.120  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.120  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.120  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.123  2575  2575 I 901SI-PanelDrag: MOVE dy=657.8913 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.123  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=323.67007 y=657.8913 handled=true
+10-27 19:06:51.137  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.137  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.137  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.137  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.138  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.141  2575  2575 I 901SI-PanelDrag: MOVE dy=694.6589 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.141  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=331.8812 y=694.6589 handled=true
+10-27 19:06:51.152  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.152  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.153  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.153  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.153  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.156  2575  2575 I 901SI-PanelDrag: MOVE dy=754.4841 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.157  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=343.0734 y=754.4841 handled=true
+10-27 19:06:51.168  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.168  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.169  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.169  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.169  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.172  2575  2575 I 901SI-PanelDrag: MOVE dy=798.7509 height=186.0 max=186.0 mBlockTouch
+es=false mTracking=true mExpandedHeight=186.0 mNotificationsDragEnabled=true mTouchDisabled=false mGe
+stureWaitForTouchSlop=true mQsExpanded=false mIsExpanding=false qsCustomizing=false
+10-27 19:06:51.172  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=2 x=354.8405 y=798.7509 handled=true
+10-27 19:06:51.177  2575  2575 V PanelBar: panelExpansionChanged: start state=2
+10-27 19:06:51.178  2575  2575 V PanelBar: panelExpansionChanged:  -> com.android.systemui:id/notific
+ation_panel: f=1.0
+10-27 19:06:51.178  2575  2575 V PanelBar: go state: 2 -> 2
+10-27 19:06:51.178  2575  2575 V PanelBar: onPanelFullyOpened
+10-27 19:06:51.178  2575  2575 V PanelBar: panelExpansionChanged: end state=2 [ fullyOpened ]
+10-27 19:06:51.178  2575  2575 I 901SI-PanelDrag: END action=1 vy=4304.675 height=186.0 max=186.0 exp
+and=true
+10-27 19:06:51.179  2575  2575 I 901SI-TouchBridge: PanelBar -> NotificationPanelView.dispatchTouchEv
+ent action=1 x=354.8405 y=798.7509 handled=true
+
+
