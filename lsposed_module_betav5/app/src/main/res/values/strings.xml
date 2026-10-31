@@ -1,0 +1,4 @@
+<resources>
+    <string name="module_name">901SI UI Restore (Android 8.1 / API 100)</string>
+    <string name="module_description">Keeps the existing 48dp navigation bar; enables SystemUI panel gates for Quick Settings; routes the power menu through Android 8.1 LegacyGlobalActions; drops only the OEM com.android.showui volume broadcast while retaining the standard volume dialog path.</string>
+</resources>
